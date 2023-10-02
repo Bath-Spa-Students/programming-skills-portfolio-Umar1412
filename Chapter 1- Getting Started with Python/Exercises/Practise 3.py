@@ -1,3 +1,5 @@
+# You need to make a program for a leader board. The program needs to output the numbers 1 to 9 on a seperate line followed by a dot.
+
 print(""" 
 1.
 2.
