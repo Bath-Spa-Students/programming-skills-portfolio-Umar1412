@@ -1,3 +1,5 @@
+#Write three strings in different variables and print the output as one string.
+
 my_city = "ajman"  
 my_name = "Umar"
 my_age = str("19")
