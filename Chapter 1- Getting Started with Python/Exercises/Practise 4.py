@@ -1,8 +1,8 @@
 # Compute the area of triangle
 
-a = 9
-b = 10
-c = 11
+a = float(input('Enter A side of triangle: '))
+b = float(input('Enter B side of trianlge: '))
+c = float(input('Enter C side of triangle: '))
 
 s = (a + b + c) / 2
 
