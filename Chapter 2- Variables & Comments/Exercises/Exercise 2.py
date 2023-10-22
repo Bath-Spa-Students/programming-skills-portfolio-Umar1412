@@ -4,4 +4,5 @@
 
 # Albert Einstein once said, “A person who never made a mistake never tried anything new.
 
-
+print(' William Shakespear once said, "Some are born great') 
+print('some achieve greatness, and some have greatness thrust upon them."')
