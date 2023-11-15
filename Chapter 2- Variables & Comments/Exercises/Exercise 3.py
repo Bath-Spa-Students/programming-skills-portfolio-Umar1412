@@ -6,16 +6,21 @@
 
 # Then print the name using each of the three stripping functions, lstrip(), rstrip(), and strip().
 
+# Using a variable to represent a name.
 name = ("\t Umar Asif \n")
 
+# Printing the name with no changes.
 print("Name with no changes:")
 print(name)
 
+#Printing the name with lstrip.
 print ("\nlstrip():")
 print(name.lstrip())
 
+# Printing the name with rstrip.
 print ("\nrstrip():")
 print(name.rstrip())
 
+#Printing the name with nstrip.
 print ("\nstrip():")
 print(name.strip())
