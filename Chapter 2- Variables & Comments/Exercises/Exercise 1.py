@@ -6,6 +6,8 @@ print(my_msg)
 
 my_msg = " I love gaming "
 
+print(my_msg)
+
 
 
 
